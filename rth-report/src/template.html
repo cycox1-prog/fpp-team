@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--
+  PRIVACY: this policy makes the browser refuse every network request from this page
+  (no fetch, no images, no fonts, no forms). CSV data can only be read and displayed locally.
+-->
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; img-src data:; form-action 'none'; base-uri 'none'">
+<title>Hospital Send-Out Report Builder</title>
+<style>
+/*{{CSS}}*/
+</style>
+</head>
+<body>
+<header class="appbar no-print">
+  <div class="appbar-inner">
+    <div>
+      <div class="brand">Florida Physician Partners</div>
+      <h1>Hospital Send-Out Report Builder</h1>
+    </div>
+    <div class="privacy" title="This page is blocked from making any network connection.">
+      <span class="lock" aria-hidden="true">&#128274;</span>
+      <span><strong>Stays on this computer.</strong> Nothing is uploaded or sent anywhere.</span>
+    </div>
+  </div>
+</header>
+
+<main class="app no-print" id="app">
+  <section class="card" id="step-load">
+    <h2><span class="num">1</span> Add the PCC export</h2>
+    <label class="drop" id="drop" for="file">
+      <input type="file" id="file" accept=".csv,text/csv" multiple>
+      <strong>Choose the CSV for one facility</strong>
+      <span>or drop it here. If PCC gave you separate admission and send-out files, add both.</span>
+    </label>
+    <div id="files"></div>
+  </section>
+
+  <section class="card hidden" id="step-settings">
+    <h2><span class="num">2</span> Report settings</h2>
+    <div class="grid">
+      <label>Facility name <input type="text" id="facility" placeholder="e.g. Palm Gardens Rehab"></label>
+      <label>Report start <input type="date" id="start"></label>
+      <label>Report end <input type="date" id="end"></label>
+      <label>&ldquo;Within&rdquo; window (days) <input type="number" id="window" min="1" max="365" value="30"></label>
+      <label class="wide">Report for
+        <select id="focus"></select>
+      </label>
+    </div>
+    <label class="check hidden" id="rateWrap"><input type="checkbox" id="respectRate" checked> Skip admissions PCC marks &ldquo;Include Rate = No&rdquo;</label>
+    <label class="check hidden" id="plannedWrap"><input type="checkbox" id="skipPlanned"> Skip send-outs PCC marks as Planned</label>
+    <div class="row">
+      <button type="button" class="link" id="prevMonth">Use previous calendar month</button>
+      <button type="button" class="link" id="fullRange">Use full date range of the file</button>
+    </div>
+    <div id="counts" class="counts"></div>
+  </section>
+
+  <section class="card hidden" id="step-check">
+    <h2><span class="num">3</span> Check the data</h2>
+    <div id="warnings"></div>
+    <div id="review"></div>
+  </section>
+
+  <section class="card hidden" id="step-print">
+    <h2><span class="num">4</span> Print or save as PDF</h2>
+    <p class="muted">The report appears below. In the print window choose <strong>Save as PDF</strong> as the destination. Turn off &ldquo;Headers and footers&rdquo; for the cleanest result.</p>
+    <button type="button" class="primary" id="print">Print / Save as PDF</button>
+  </section>
+</main>
+
+<div id="report-root"></div>
+
+<script>
+/*{{CORE}}*/
+</script>
+<script>
+/*{{APP}}*/
+</script>
+</body>
+</html>

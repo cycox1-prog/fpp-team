@@ -1,0 +1,5 @@
+# Real PCC exports and generated reports contain PHI: never commit them.
+*.csv
+*.pdf
+*.xlsx
+!sample/sample_facility.csv

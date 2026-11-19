@@ -1,0 +1,116 @@
+:root {
+  --green: #2A4C35;
+  --leaf: #599A43;
+  --rule: #C5C5C4;
+  --ink: #1d2420;
+  --muted: #5d665f;
+  --bg: #f3f5f2;
+  --card: #fff;
+  --warn: #8a5a00;
+  --warn-bg: #fff6e0;
+  --err: #9b1c1c;
+  --err-bg: #fdeaea;
+  --ok-bg: #eaf5e6;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-print]) { --ink: #e8ece9; --muted: #a2aca4; --bg: #151a17; --card: #1f2622; --rule: #3a443d; --green: #8fcf7c; --warn-bg: #3a2f10; --warn: #f0c36a; --err-bg: #3d1a1a; --err: #ff9d9d; --ok-bg: #1b2f1a; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; font: 15px/1.45 -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; color: var(--ink); background: var(--bg); }
+.hidden { display: none !important; }
+.muted { color: var(--muted); }
+
+/* ---- app chrome ------------------------------------------------------------ */
+.appbar { background: var(--card); border-bottom: 3px solid var(--leaf); }
+.appbar-inner { max-width: 960px; margin: 0 auto; padding: 14px 20px; display: flex; gap: 16px; align-items: center; justify-content: space-between; flex-wrap: wrap; }
+.brand { font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.appbar h1 { margin: 2px 0 0; font-size: 21px; color: var(--green); }
+.privacy { display: flex; gap: 8px; align-items: center; font-size: 13px; background: var(--ok-bg); border: 1px solid var(--leaf); border-radius: 8px; padding: 6px 10px; }
+.app { max-width: 960px; margin: 18px auto 8px; padding: 0 20px; display: grid; gap: 14px; }
+.card { background: var(--card); border: 1px solid var(--rule); border-radius: 10px; padding: 16px 18px; }
+.card h2 { margin: 0 0 10px; font-size: 17px; color: var(--green); display: flex; align-items: center; gap: 10px; }
+.num { display: inline-grid; place-items: center; width: 24px; height: 24px; border-radius: 50%; background: var(--green); color: #fff; font-size: 13px; }
+@media (prefers-color-scheme: dark) { .num { color: #10210f; } }
+.drop { display: grid; gap: 4px; place-items: center; text-align: center; padding: 26px 16px; border: 2px dashed var(--leaf); border-radius: 10px; cursor: pointer; }
+.drop.over, .drop:hover { background: var(--ok-bg); }
+.drop input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.drop:focus-within { outline: 3px solid var(--leaf); outline-offset: 2px; }
+.drop span { color: var(--muted); font-size: 14px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; }
+.grid .wide { grid-column: 1 / -1; }
+label.check { display: flex; align-items: center; gap: 8px; margin-top: 10px; color: var(--ink); font-size: 14px; }
+label.check input { width: auto; }
+label { display: grid; gap: 4px; font-size: 13px; color: var(--muted); }
+input[type=text], input[type=date], input[type=number], select { font: inherit; padding: 7px 8px; border: 1px solid var(--rule); border-radius: 6px; background: var(--card); color: var(--ink); width: 100%; }
+button { font: inherit; cursor: pointer; border-radius: 8px; border: 1px solid var(--green); background: var(--card); color: var(--green); padding: 8px 14px; }
+button.primary { background: var(--green); color: #fff; font-weight: 600; }
+@media (prefers-color-scheme: dark) { button.primary { color: #10210f; } }
+button.link { border: 0; background: none; text-decoration: underline; padding: 6px 0; }
+.row { display: flex; gap: 18px; flex-wrap: wrap; margin-top: 6px; }
+.counts { margin-top: 8px; font-size: 14px; }
+.file { border: 1px solid var(--rule); border-radius: 8px; padding: 10px 12px; margin-top: 10px; }
+.file-head { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; justify-content: space-between; }
+.file-head .name { font-weight: 600; word-break: break-all; }
+.file select { width: auto; }
+details { margin-top: 8px; }
+summary { cursor: pointer; color: var(--green); font-size: 14px; }
+table.map, table.review { border-collapse: collapse; width: 100%; font-size: 14px; margin-top: 6px; }
+table.map td, table.review td, table.review th { padding: 4px 6px; border-bottom: 1px solid var(--rule); text-align: left; vertical-align: middle; }
+.req { color: var(--err); }
+.banner { border-radius: 8px; padding: 9px 12px; margin: 6px 0; font-size: 14px; border: 1px solid; }
+.banner.warn { background: var(--warn-bg); color: var(--warn); border-color: var(--warn); }
+.banner.error { background: var(--err-bg); color: var(--err); border-color: var(--err); }
+.banner.ok { background: var(--ok-bg); border-color: var(--leaf); }
+.review-block { margin-top: 12px; }
+.review-block h3 { margin: 0 0 2px; font-size: 14px; }
+
+/* ---- the report ------------------------------------------------------------ */
+#report-root { padding: 0 0 40px; }
+.report { --ink: #1d2420; --muted: #5d665f; --rule: #C5C5C4; --green: #2A4C35; color: var(--ink); }
+.page { position: relative; width: 8.5in; max-width: calc(100% - 24px); min-height: 11in; margin: 0 auto 18px; padding: .55in .6in .8in; background: #fff; color: #1d2420; border: 1px solid #d5d9d4; box-shadow: 0 2px 8px rgba(0,0,0,.08); font-size: 10.5pt; line-height: 1.35; }
+.page .eyebrow { font-size: 8.5pt; letter-spacing: .1em; text-transform: uppercase; color: #5d665f; border-bottom: 2px solid #599A43; padding-bottom: 5px; margin-bottom: 14px; }
+.page h1 { font-size: 24pt; line-height: 1.1; margin: 0 0 4px; color: #2A4C35; font-weight: 700; }
+.page .sub { font-size: 11pt; margin: 0 0 8px; color: #1d2420; font-weight: 600; }
+.page .lede { font-size: 9.5pt; color: #5d665f; margin: 0 0 14px; }
+.page h2 { font-size: 12.5pt; color: #2A4C35; margin: 18px 0 6px; }
+.page h3 { font-size: 11pt; margin: 14px 0 4px; color: #2A4C35; }
+.page p { margin: 6px 0; }
+.page .stat { font-size: 10pt; color: #5d665f; margin: 0 0 6px; }
+.page table { width: 100%; border-collapse: collapse; font-size: 9.5pt; margin: 4px 0 6px; }
+.page th { background: #2A4C35; color: #fff; text-align: left; font-weight: 600; padding: 4px 7px; }
+.page td { padding: 3.5px 7px; border-bottom: 1px solid #e3e6e2; vertical-align: top; }
+.page tr { page-break-inside: avoid; }
+.page .r { text-align: right; white-space: nowrap; }
+.page .c { text-align: center; }
+.page tr.total td { font-weight: 700; border-top: 2px solid #2A4C35; }
+.page tr.zebra td, .page tbody tr:nth-child(even) td { background: #f6f8f5; }
+.page .prov { color: #5d665f; font-size: 8.5pt; }
+.page .matrix { font-size: 8.5pt; }
+.page .matrix th { font-size: 8pt; text-align: center; vertical-align: bottom; }
+.page .matrix th:first-child { text-align: left; }
+.page .matrix td.c { text-align: center; }
+.page .matrix td.z { color: #b0b6b1; }
+.page .foot { position: absolute; left: .6in; right: .6in; bottom: .35in; font-size: 8pt; color: #5d665f; display: flex; justify-content: space-between; border-top: 1px solid #C5C5C4; padding-top: 4px; }
+.page .note { font-size: 9pt; color: #5d665f; }
+.page .flag { color: #8a5a00; font-size: 8.5pt; }
+
+@media print {
+  /* Margins come from @page so content that runs past one sheet flows onto the next
+     instead of being clipped (e.g. a provider with many send-outs). */
+  @page { size: letter; margin: .5in .6in; }
+  :root, body { background: #fff !important; }
+  .no-print { display: none !important; }
+  #report-root { padding: 0; }
+  .page { margin: 0; padding: 0; border: 0; box-shadow: none; width: auto; max-width: none; min-height: 0; page-break-after: always; break-after: page; }
+  .report:last-child .page:last-child { page-break-after: auto; break-after: auto; }
+  .page .foot { position: static; margin-top: 10px; break-before: avoid; page-break-before: avoid; }
+  /* a little tighter than on screen so page 1 (9 + 3 + up to ~8 rows) always fits one sheet */
+  .page { font-size: 10pt; line-height: 1.3; }
+  .page h1 { font-size: 22pt; }
+  .page h2 { margin: 12px 0 4px; }
+  .page .eyebrow { margin-bottom: 10px; }
+  .page td { padding: 2.5px 7px; }
+  .page th { padding: 3.5px 7px; }
+  .page th { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .page tbody tr:nth-child(even) td, .page tr.zebra td { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+}

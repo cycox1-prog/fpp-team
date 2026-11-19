@@ -1,0 +1,210 @@
+Event Type,Event Date,Resident Name,Resident ID,Provider,Stay Type,Reason,Disposition,Resident Admit Date
+Admission,06/17/2026,"Pruitt, Uri",1052,"Rivera, Alex MD",Long-Term,,,
+Admission,06/18/2026,"Pruitt, Sol",1027,"Rivera, Alex MD",Post-Acute,,,
+Admission,06/18/2026,"Yarrow, Jada",1140,"Rivera, Alex MD",Post-Acute,,,
+Admission,06/19/2026,"Oduya, Yara",1066,"Rivera, Alex MD",Post-Acute,,,
+Admission,06/19/2026,"Underhill, Cora",1090,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,06/19/2026,"Whitlock, Uri",1117,"Rivera, Alex MD",Long-Term,,,
+Admission,06/19/2026,"Calloway, Quinn",1131,"Lindqvist, Sam NP",Long-Term,,,
+Admission,06/21/2026,"Calloway, Nora",1002,"Rivera, Alex MD",Post-Acute,,,
+Admission,06/21/2026,"Abbott, Alma",1097,"Okafor, Dana NP",Long-Term,,,
+Admission,06/22/2026,"Yarrow, Wes",1115,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,06/23/2026,"Ellery, Alma",1102,"Rivera, Alex MD",Long-Term,,,
+Admission,06/24/2026,"Holloway, Gil",1070,"Rivera, Alex MD",Long-Term,,,
+Admission,06/24/2026,"Whitlock, Gil",1128,"Okafor, Dana NP",Post-Acute,,,
+Admission,06/25/2026,"Oduya, Kemal",1072,"Okafor, Dana NP",Long-Term,,,
+Admission,06/26/2026,"Thackeray, Elio",1126,"Rivera, Alex MD",Post-Acute,,,
+Admission,06/26/2026,"Sutter, Cora",1133,"Rivera, Alex MD",Long-Term,,,
+Admission,06/27/2026,"Yarrow, Faye",1056,"Rivera, Alex MD",Post-Acute,,,
+Admission,06/28/2026,"Ingram, Cora",1110,"Rivera, Alex MD",Post-Acute,,,
+Admission,06/29/2026,"Lombardi, Sol",1001,"Rivera, Alex MD",Long-Term,,,
+Admission,06/30/2026,"Abbott, Sol",1034,"Rivera, Alex MD",Post-Acute,,,
+Admission,07/01/2026,"Whitlock, Lena",1135,"Rivera, Alex MD",Post-Acute,,,
+Admission,07/02/2026,"Quarles, Nora",1014,"Rivera, Alex MD",Long-Term,,,
+Admission,07/02/2026,"Renner, Bruno",1068,"Rivera, Alex MD",Post-Acute,,,
+Admission,07/02/2026,"Mercer, Omar",1076,"Rivera, Alex MD",Post-Acute,,,
+Admission,07/03/2026,"Whitlock, Quinn",1029,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,07/03/2026,"Brandt, Quinn",1093,"Okafor, Dana NP",Post-Acute,,,
+Admission,07/04/2026,"Jessup, Nora",1006,"Rivera, Alex MD",Post-Acute,,,
+Admission,07/04/2026,"Oduya, Hana",1079,"Okafor, Dana NP",Post-Acute,,,
+Admission,07/04/2026,"Underhill, Lena",1118,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,07/05/2026,"Nakamura, Rhea",1028,"Rivera, Alex MD",Post-Acute,,,
+Admission,07/06/2026,"Mercer, Uri",1000,"Rivera, Alex MD",Post-Acute,,,
+Admission,07/06/2026,"Calloway, Faye",1026,"Rivera, Alex MD",Long-Term,,,
+Admission,07/06/2026,"Sutter, Omar",1057,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,07/06/2026,"Holloway, Ivo",1143,"Rivera, Alex MD",Post-Acute,,,
+Admission,07/07/2026,"Quarles, Alma",1040,"Rivera, Alex MD",Long-Term,,,
+Admission,07/07/2026,"Ingram, Bruno",1094,"Rivera, Alex MD",Long-Term,,,
+Admission,07/09/2026,"Ingram, Lena",1096,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,07/11/2026,"Holloway, Milo",1046,"Okafor, Dana NP",Post-Acute,,,
+Admission,07/11/2026,"Quarles, Pia",1098,"Rivera, Alex MD",Post-Acute,,,
+Admission,07/13/2026,"Oduya, Faye",1033,"Rivera, Alex MD",Post-Acute,,,
+Admission,07/14/2026,"Zeller, Jada",1022,"Rivera, Alex MD",Post-Acute,,,
+Admission,07/14/2026,"Abbott, Kemal",1108,"Rivera, Alex MD",Long-Term,,,
+Admission,07/15/2026,"Underhill, Uri",1004,"Okafor, Dana NP",Post-Acute,,,
+Admission,07/15/2026,"Renner, Rhea",1044,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,07/15/2026,"Thackeray, Zane",1045,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,07/15/2026,"Calloway, Ivo",1091,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,07/17/2026,"Yarrow, Yara",1123,"Rivera, Alex MD",Long-Term,,,
+Admission,07/18/2026,"Calloway, Sol",1012,"Rivera, Alex MD",Post-Acute,,,
+Admission,07/19/2026,"Nakamura, Faye",1103,"Rivera, Alex MD",Post-Acute,,,
+Admission,07/20/2026,"Quarles, Lena",1043,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,07/20/2026,"Renner, Gil",1075,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,07/21/2026,"Mercer, Gil",1132,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,07/22/2026,"Ellery, Nora",1024,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,07/22/2026,"Dalton, Bruno",1142,"Lindqvist, Sam NP",Long-Term,,,
+Admission,07/23/2026,"Whitlock, Milo",1020,"Lindqvist, Sam NP",Long-Term,,,
+Admission,07/23/2026,"Zeller, Bruno",1125,"Okafor, Dana NP",Long-Term,,,
+Admission,07/26/2026,"Renner, Vera",1007,"Rivera, Alex MD",Post-Acute,,,
+Admission,07/26/2026,"Underhill, Sol",1019,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,07/27/2026,"Calloway, Xena",1082,"Rivera, Alex MD",Post-Acute,,,
+Admission,07/28/2026,"Mercer, Dev",1139,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,07/30/2026,"Yarrow, Omar",1013,"Rivera, Alex MD",Post-Acute,,,
+Admission,07/30/2026,"Garrity, Pia",1051,"Okafor, Dana NP",Post-Acute,,,
+Admission,07/30/2026,"Renner, Nora",1092,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,07/30/2026,"Yarrow, Uri",1101,"Rivera, Alex MD",Long-Term,,,
+Admission,07/30/2026,"Jessup, Jada",1149,"Rivera, Alex MD",Post-Acute,,,
+Admission,07/31/2026,"Oduya, Zane",1049,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,07/31/2026,"Mercer, Kemal",1138,"Rivera, Alex MD",Post-Acute,,,
+Admission,08/02/2026,"Jessup, Hana",1011,"Lindqvist, Sam NP",Long-Term,,,
+Admission,08/02/2026,"Thackeray, Alma",1035,"Rivera, Alex MD",Post-Acute,,,
+Admission,08/02/2026,"Pruitt, Dev",1037,"Rivera, Alex MD",Post-Acute,,,
+Admission,08/02/2026,"Ellery, Wes",1041,"Okafor, Dana NP",Long-Term,,,
+Admission,08/02/2026,"Calloway, Hana",1050,"Rivera, Alex MD",Long-Term,,,
+Admission,08/02/2026,"Ellery, Tess",1134,"Lindqvist, Sam NP",Post-Acute,,,
+Send-out,08/02/2026,"Yarrow, Jada",1140,"Rivera, Alex MD",Post-Acute,"Behavioral symptoms (e.g. agitation, psychosis)",Admitted,06/18/2026
+Send-out,08/03/2026,"Quarles, Nora",1014,"Rivera, Alex MD",Long-Term,Respiratory infection,Inpatient,07/02/2026
+Send-out,08/03/2026,"Whitlock, Quinn",1029,"Lindqvist, Sam NP",Post-Acute,"Abnormal vital signs (low/high BP, high respiratory rate)",Inpatient,07/03/2026
+Admission,08/04/2026,"Ellery, Uri",1036,"Rivera, Alex MD",Post-Acute,,,
+Admission,08/04/2026,"Quarles, Vera",1104,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,08/05/2026,"Lombardi, Nora",1141,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,08/06/2026,"Pruitt, Cora",1023,"Rivera, Alex MD",Post-Acute,,,
+Admission,08/06/2026,"Quarles, Jada",1100,"Okafor, Dana NP",Post-Acute,,,
+Admission,08/06/2026,"Abbott, Jada",1111,"Rivera, Alex MD",Post-Acute,,,
+Send-out,08/06/2026,"Abbott, Kemal",1108,"Rivera, Alex MD",Long-Term,"Abnormal vital signs (low/high BP, high respiratory rate)",Inpatient,07/14/2026
+Send-out,08/07/2026,"Oduya, Zane",1049,"Lindqvist, Sam NP",Post-Acute,Stroke / TIA / CVA,Inpatient,07/31/2026
+Send-out,08/07/2026,"Lombardi, Nora",1141,"Lindqvist, Sam NP",Post-Acute,Chest pain,Inpatient,08/05/2026
+Admission,08/09/2026,"Lombardi, Vera",1025,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,08/09/2026,"Ellery, Bruno",1063,"Lindqvist, Sam NP",Post-Acute,,,
+Send-out,08/09/2026,"Whitlock, Milo",1020,"Lindqvist, Sam NP",Long-Term,Stroke / TIA / CVA,Inpatient,07/23/2026
+Admission,08/10/2026,"Zeller, Kemal",1010,"Okafor, Dana NP",Post-Acute,,,
+Admission,08/10/2026,"Calloway, Gil",1077,"Okafor, Dana NP",Post-Acute,,,
+Discharge,08/10/2026,"Abbott, Alma",9999,"Rivera, Alex MD",,,,
+Admission,08/11/2026,"Garrity, Gil",1061,"Rivera, Alex MD",Long-Term,,,
+Admission,08/11/2026,"Quarles, Milo",1081,"Rivera, Alex MD",Post-Acute,,,
+Send-out,08/12/2026,"Lombardi, Sol",1001,"Rivera, Alex MD",Long-Term,Abdominal pain,Inpatient,06/29/2026
+Admission,08/13/2026,"Abbott, Ivo",1106,"Rivera, Alex MD",Post-Acute,,,
+Admission,08/13/2026,"Underhill, Alma",1119,"Okafor, Dana NP",Post-Acute,,,
+Admission,08/13/2026,"Thackeray, Yara",1147,"Rivera, Alex MD",Post-Acute,,,
+Send-out,08/13/2026,"Garrity, Pia",1051,"Okafor, Dana NP",Post-Acute,"Abnormal vital signs (low/high BP, high respiratory rate)",Inpatient,07/30/2026
+Admission,08/14/2026,"Vandermeer, Sol",1064,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,08/14/2026,"Oduya, Wes",1083,"Rivera, Alex MD",Post-Acute,,,
+Admission,08/14/2026,"Pruitt, Milo",1124,"Rivera, Alex MD",Post-Acute,,,
+Send-out,08/14/2026,"Sutter, Omar",1057,"Lindqvist, Sam NP",Post-Acute,Altered mental status,Inpatient,07/06/2026
+Send-out,08/14/2026,"Ellery, Tess",1134,"Lindqvist, Sam NP",Post-Acute,Seizure,Inpatient,08/02/2026
+Admission,08/15/2026,"Lombardi, Faye",1021,"Okafor, Dana NP",Post-Acute,,,
+Admission,08/15/2026,"Pruitt, Pia",1038,"Rivera, Alex MD",Post-Acute,,,
+Admission,08/16/2026,"Whitlock, Vera",1018,"Rivera, Alex MD",Long-Term,,,
+Send-out,08/16/2026,"Ingram, Bruno",1094,Emergency Transfer,Long-Term,"Behavioral symptoms (e.g. agitation, psychosis)",Inpatient,07/07/2026
+Send-out,08/16/2026,"Renner, Nora",1092,"Lindqvist, Sam NP",Post-Acute,GI bleeding,Inpatient,07/30/2026
+Admission,08/17/2026,"Underhill, Milo",1032,"Rivera, Alex MD",Post-Acute,,,
+Admission,08/18/2026,"Vandermeer, Cora",1015,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,08/18/2026,"Fenwick, Vera",1080,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,08/18/2026,"Ingram, Alma",1120,"Okafor, Dana NP",Post-Acute,,,
+Admission,08/18/2026,"Mercer, Alma",1136,"Rivera, Alex MD",Long-Term,,,
+Admission,08/18/2026,"Brandt, Rhea",1148,"Rivera, Alex MD",Long-Term,,,
+Send-out,08/18/2026,"Calloway, Hana",1050,"Rivera, Alex MD",Long-Term,Respiratory infection,Inpatient,08/02/2026
+Admission,08/19/2026,"Ellery, Jada",1114,"Okafor, Dana NP",Post-Acute,,,
+Send-out,08/19/2026,"Yarrow, Uri",1101,"Rivera, Alex MD",Long-Term,Respiratory infection,Inpatient,07/30/2026
+Admission,08/20/2026,"Holloway, Yara",1062,"Okafor, Dana NP",Post-Acute,,,
+Admission,08/20/2026,"Oduya, Rhea",1071,"Rivera, Alex MD",Post-Acute,,,
+Admission,08/20/2026,"Underhill, Gil",1109,"Rivera, Alex MD",Post-Acute,,,
+Admission,08/20/2026,"Renner, Cora",1121,"Okafor, Dana NP",Post-Acute,,,
+Admission,08/21/2026,"Garrity, Wes",1073,"Rivera, Alex MD",Post-Acute,,,
+Admission,08/22/2026,"Pruitt, Lena",1047,"Okafor, Dana NP",Post-Acute,,,
+Admission,08/22/2026,"Jessup, Omar",1129,"Okafor, Dana NP",Post-Acute,,,
+Send-out,08/22/2026,"Ellery, Nora",1024,Emergency Transfer,Post-Acute,Fall,Inpatient,07/22/2026
+Admission,08/23/2026,"Jessup, Uri",1042,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,08/23/2026,"Zeller, Quinn",1116,"Okafor, Dana NP",Post-Acute,,,
+Admission,08/26/2026,"Nakamura, Bruno",1003,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,08/26/2026,"Renner, Elio",1059,"Rivera, Alex MD",Post-Acute,,,
+Admission,08/26/2026,"Kessler, Hana",1107,"Rivera, Alex MD",Post-Acute,,,
+Admission,08/26/2026,"Garrity, Jada",1130,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,08/26/2026,"Yarrow, Cora",1146,"Rivera, Alex MD",Long-Term,,,
+Send-out,08/26/2026,"Mercer, Uri",1000,"Rivera, Alex MD",Post-Acute,Uncontrolled pain,Inpatient,07/06/2026
+Admission,08/27/2026,"Pruitt, Zane",1069,"Lindqvist, Sam NP",Post-Acute,,,
+Send-out,08/27/2026,"Pruitt, Rhea",2003,"Rivera, Alex MD",Long-Term,Other,Inpatient,06/27/2025
+Admission,08/28/2026,"Brandt, Tess",1009,"Rivera, Alex MD",Post-Acute,,,
+Admission,08/29/2026,"Pruitt, Wes",1088,"Rivera, Alex MD",Long-Term,,,
+Admission,08/30/2026,"Mercer, Bruno",1005,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,08/30/2026,"Oduya, Cora",1017,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,08/30/2026,"Quarles, Yara",1112,"Rivera, Alex MD",Post-Acute,,,
+Send-out,08/30/2026,"Jessup, Jada",1149,"Rivera, Alex MD",Post-Acute,Abdominal pain,Inpatient,07/30/2026
+Send-out,08/30/2026,"Renner, Vera",1007,"Rivera, Alex MD",Post-Acute,Low hemoglobin / hematocrit,Inpatient,07/26/2026
+Send-out,09/02/2026,"Oduya, Hana",1079,"Okafor, Dana NP",Post-Acute,"Shortness of breath (bronchitis, pneumonia)",Inpatient,07/04/2026
+Send-out,09/03/2026,"Renner, Vera",1007,"Rivera, Alex MD",Post-Acute,Chest pain,Inpatient,07/26/2026
+Admission,09/04/2026,"Jessup, Quinn",1084,"Lindqvist, Sam NP",Post-Acute,,,
+Send-out,09/04/2026,"Fenwick, Vera",1080,"Lindqvist, Sam NP",Post-Acute,Low hemoglobin / hematocrit,Inpatient,08/18/2026
+Admission,09/05/2026,"Zeller, Gil",1095,"Rivera, Alex MD",Long-Term,,,
+Admission,09/06/2026,"Garrity, Lena",1008,"Rivera, Alex MD",Post-Acute,,,
+Send-out,09/06/2026,"Jessup, Omar",1129,"Okafor, Dana NP",Post-Acute,Abdominal pain,Inpatient,08/22/2026
+Admission,09/09/2026,"Underhill, Nora",1099,"Okafor, Dana NP",Post-Acute,,,
+Admission,09/11/2026,"Ingram, Milo",1087,"Rivera, Alex MD",Long-Term,,,
+Admission,09/12/2026,"Renner, Milo",1031,"Rivera, Alex MD",Post-Acute,,,
+Admission,09/12/2026,"Oduya, Milo",1137,"Rivera, Alex MD",Long-Term,,,
+Admission,09/13/2026,"Jessup, Bruno",1105,"Okafor, Dana NP",Post-Acute,,,
+Admission,09/13/2026,"Jessup, Tess",1127,"Okafor, Dana NP",Post-Acute,,,
+Send-out,09/13/2026,"Brandt, Rhea",1148,"Rivera, Alex MD",Long-Term,Uncontrolled pain,Admitted,08/18/2026
+Send-out,09/16/2026,"Calloway, Nora",1002,"Rivera, Alex MD",Post-Acute,GI bleeding,Inpatient,06/21/2026
+Send-out,09/16/2026,"Whitlock, Uri",1117,"Rivera, Alex MD",Long-Term,Skin wound or ulcer,Inpatient,06/19/2026
+Send-out,09/16/2026,"Renner, Cora",1121,Emergency Transfer,Post-Acute,Low hemoglobin / hematocrit,Inpatient,08/20/2026
+Send-out,09/16/2026,"Mercer, Bruno",1005,Emergency Transfer,Post-Acute,Chest pain,Observation,08/30/2026
+Send-out,09/16/2026,"Jessup, Tess",1127,"Okafor, Dana NP",Post-Acute,Stroke / TIA / CVA,Inpatient,09/13/2026
+Send-out,09/16/2026,"Calloway, Hana",1050,"Rivera, Alex MD",Long-Term,Chest pain,Inpatient,08/02/2026
+Admission,09/17/2026,"Underhill, Dev",1060,"Okafor, Dana NP",Long-Term,,,
+Send-out,09/17/2026,"Oduya, Rhea",1071,Emergency Transfer,Post-Acute,"Shortness of breath (bronchitis, pneumonia)",Inpatient,08/20/2026
+Send-out,09/18/2026,"Quarles, Vera",1104,"Lindqvist, Sam NP",Post-Acute,Seizure,Inpatient,08/04/2026
+Admission,09/19/2026,"Brandt, Omar",1030,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,09/19/2026,"Pruitt, Ivo",1122,"Lindqvist, Sam NP",Post-Acute,,,
+Send-out,09/19/2026,"Kessler, Hana",1107,"Rivera, Alex MD",Post-Acute,Respiratory infection,Inpatient,08/26/2026
+Send-out,09/19/2026,"Quarles, Pia",1098,Emergency Transfer,Post-Acute,Altered mental status,Observation,07/11/2026
+Admission,09/20/2026,"Kessler, Xena",1039,"Rivera, Alex MD",Post-Acute,,,
+Send-out,09/20/2026,"Underhill, Dev",1060,"Okafor, Dana NP",Long-Term,Abnormal X-ray,Inpatient,09/17/2026
+Admission,09/21/2026,"Fenwick, Nora",1054,"Lindqvist, Sam NP",Long-Term,,,
+Send-out,09/21/2026,"Jessup, Bruno",1105,"Okafor, Dana NP",Post-Acute,"Abnormal vital signs (low/high BP, high respiratory rate)",Observation,09/13/2026
+Send-out,09/22/2026,"Oduya, Milo",1137,"Rivera, Alex MD",Long-Term,"Abnormal vital signs (low/high BP, high respiratory rate)",Observation,09/12/2026
+Admission,09/23/2026,"Lombardi, Zane",1144,"Lindqvist, Sam NP",Post-Acute,,,
+Send-out,09/23/2026,"Kessler, Hana",1107,Emergency Transfer,Post-Acute,"Abnormal vital signs (low/high BP, high respiratory rate)",Inpatient,08/26/2026
+Admission,09/24/2026,"Underhill, Vera",1078,"Rivera, Alex MD",Long-Term,,,
+Admission,09/24/2026,"Fenwick, Ivo",1086,"Lindqvist, Sam NP",Post-Acute,,,
+Send-out,09/24/2026,"Underhill, Nora",1099,"Okafor, Dana NP",Post-Acute,"Behavioral symptoms (e.g. agitation, psychosis)",Inpatient,09/09/2026
+Send-out,09/24/2026,"Holloway, Yara",1062,"Okafor, Dana NP",Post-Acute,"Abnormal vital signs (low/high BP, high respiratory rate)",Inpatient,08/20/2026
+Admission,09/25/2026,"Holloway, Dev",1085,"Rivera, Alex MD",Post-Acute,,,
+Admission,09/25/2026,"Thackeray, Milo",1113,"Lindqvist, Sam NP",Long-Term,,,
+Send-out,09/25/2026,"Garrity, Lena",1008,"Rivera, Alex MD",Post-Acute,Low hemoglobin / hematocrit,Inpatient,09/06/2026
+Admission,09/26/2026,"Ingram, Pia",1048,"Rivera, Alex MD",Long-Term,,,
+Send-out,09/26/2026,"Calloway, Gil",1077,Emergency Transfer,Post-Acute,Uncontrolled pain,Admitted,08/10/2026
+Send-out,09/26/2026,"Thackeray, Elio",1126,"Rivera, Alex MD",Post-Acute,GI bleeding,Inpatient,06/26/2026
+Send-out,09/26/2026,"Pruitt, Uri",1052,"Rivera, Alex MD",Long-Term,Abdominal pain,Inpatient,06/17/2026
+Admission,09/27/2026,"Yarrow, Milo",1055,"Okafor, Dana NP",Post-Acute,,,
+Admission,09/27/2026,"Ellery, Faye",1067,"Rivera, Alex MD",Post-Acute,,,
+Admission,09/27/2026,"Whitlock, Faye",1089,"Rivera, Alex MD",Post-Acute,,,
+Send-out,09/27/2026,"Ellery, Bruno",1063,Emergency Transfer,Post-Acute,Skin wound or ulcer,Inpatient,08/09/2026
+Admission,09/28/2026,"Pruitt, Quinn",1074,"Lindqvist, Sam NP",Post-Acute,,,
+Admission,09/28/2026,"Zeller, Uri",1145,"Rivera, Alex MD",Long-Term,,,
+Send-out,09/28/2026,"Underhill, Ivo",2023,Emergency Transfer,Long-Term,Low hemoglobin / hematocrit,Inpatient,03/12/2025
+Send-out,09/28/2026,"Oduya, Cora",1017,Emergency Transfer,Post-Acute,Other,Inpatient,08/30/2026
+Admission,09/29/2026,"Kessler, Kemal",1016,"Okafor, Dana NP",Post-Acute,,,
+Send-out,09/29/2026,"Underhill, Vera",1078,"Rivera, Alex MD",Long-Term,Seizure,Observation,09/24/2026
+Send-out,09/29/2026,"Pruitt, Quinn",1074,Emergency Transfer,Post-Acute,Abnormal X-ray,Inpatient,09/28/2026
+Send-out,09/29/2026,"Mercer, Bruno",1005,"Lindqvist, Sam NP",Post-Acute,Fall,Inpatient,08/30/2026
+Admission,09/30/2026,"Thackeray, Pia",1058,"Okafor, Dana NP",Post-Acute,,,
+Admission,09/30/2026,"Quarles, Elio",1065,"Okafor, Dana NP",Post-Acute,,,
+Send-out,09/30/2026,"Oduya, Yara",1066,"Rivera, Alex MD",Post-Acute,Fall,Inpatient,06/19/2026
+Send-out,09/30/2026,"Quarles, Elio",1065,"Okafor, Dana NP",Post-Acute,Abdominal pain,Inpatient,09/30/2026
+Send-out,09/30/2026,"Oduya, Rhea",1071,"Rivera, Alex MD",Post-Acute,"Shortness of breath (bronchitis, pneumonia)",Inpatient,08/20/2026
+Admission,10/01/2026,"Vandermeer, Dev",1053,"Lindqvist, Sam NP",Post-Acute,,,
+Send-out,10/01/2026,"Thackeray, Pia",1058,"Okafor, Dana NP",Post-Acute,Seizure,Observation,09/30/2026
+Send-out,10/01/2026,"Zeller, Uri",1145,Emergency Transfer,Long-Term,Abnormal X-ray,Inpatient,09/28/2026
+Send-out,10/01/2026,"Fenwick, Ivo",1086,Emergency Transfer,Post-Acute,Uncontrolled pain,Inpatient,09/24/2026
+Send-out,10/01/2026,"Oduya, Cora",1017,"Lindqvist, Sam NP",Post-Acute,Low hemoglobin / hematocrit,Inpatient,08/30/2026
